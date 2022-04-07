@@ -67,10 +67,3 @@ v1.0 = version 1.0
 ## img folder 
 
 take a look at `img folder` architecture!
-
-
-![](img/3.jpg)
-
-![](img/0.jpg)
-![](img/1.jpg)
-![](img/2.jpg)
